@@ -1,0 +1,19 @@
+# VSCode 配置
+.vscode/
+
+# 编译产物
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# 调试文件
+*.pdb
+*.ilk
+*.exp
+
+# 可执行文件（无扩展名）
+[0-9]*
